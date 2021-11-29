@@ -1,6 +1,6 @@
 # Pimienta y Sal
 
-<h3>ejercitación de DIGITAL HOUSE donde practicamos con ejs, controladores y agregamos el aspecto visual con css a la página.</h3>
+<h3>ejercitación de Formar donde practicamos con ejs y controladores, en un proyecto creado con express-generator.</h3>
 
 <h2>Imagenes previas<h2>
 
